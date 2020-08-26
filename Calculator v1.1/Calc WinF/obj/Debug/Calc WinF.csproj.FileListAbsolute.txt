@@ -1,0 +1,20 @@
+E:\.creaters\C#\Calc WinF\Calc WinF\bin\Debug\Calc WinF.exe.config
+E:\.creaters\C#\Calc WinF\Calc WinF\bin\Debug\Calc WinF.exe
+E:\.creaters\C#\Calc WinF\Calc WinF\bin\Debug\Calc WinF.pdb
+E:\.creaters\C#\Calc WinF\Calc WinF\obj\Debug\Calc WinF.csprojAssemblyReference.cache
+E:\.creaters\C#\Calc WinF\Calc WinF\obj\Debug\Calc_WinF.Properties.Resources.resources
+E:\.creaters\C#\Calc WinF\Calc WinF\obj\Debug\Calc WinF.csproj.GenerateResource.cache
+E:\.creaters\C#\Calc WinF\Calc WinF\obj\Debug\Calc WinF.csproj.CoreCompileInputs.cache
+E:\.creaters\C#\Calc WinF\Calc WinF\obj\Debug\Calc WinF.exe
+E:\.creaters\C#\Calc WinF\Calc WinF\obj\Debug\Calc WinF.pdb
+E:\.creaters\C#\Calc WinF\Calc WinF\obj\Debug\Calc_WinF.Form1.resources
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\bin\Debug\Calc WinF.exe.config
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\bin\Debug\Calc WinF.exe
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\bin\Debug\Calc WinF.pdb
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\obj\Debug\Calc WinF.csprojAssemblyReference.cache
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\obj\Debug\Calc_WinF.Form1.resources
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\obj\Debug\Calc_WinF.Properties.Resources.resources
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\obj\Debug\Calc WinF.csproj.GenerateResource.cache
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\obj\Debug\Calc WinF.csproj.CoreCompileInputs.cache
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\obj\Debug\Calc WinF.exe
+E:\.creaters\C# Projects\Calculator v1.0\Calc WinF\obj\Debug\Calc WinF.pdb
